@@ -1,7 +1,7 @@
 # 준비
 1. aws cli 설치 및 개인계정 configuration 구성
    - https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
-   - 터미널에서 "aws whoami" 명령어에 대한 json 값이 잘 return 된다면 완료
+   - 터미널에서 "aws sts get-caller-identity" 명령어에 대한 json 값이 잘 return 된다면 완료
 2. jq 설치 
    - https://stedolan.github.io/jq/
     
