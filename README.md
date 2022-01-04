@@ -1,3 +1,4 @@
+> About Blog posting : https://ddongeee.github.io/2022/01/03/jambda/
 # 준비
 1. aws cli 설치 및 개인계정 configuration 구성
    - https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
